@@ -26,8 +26,8 @@ This project is a structured Excel-based system designed to track construction p
 ---
 
 ### 🖼 Sample Output
-Project Monitoring.png
-Project Monitoring (2).png
+- Project Monitoring.png
+- Project Monitoring (2).png
 
 ---
 
